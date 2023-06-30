@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@swc/register": "^0.1.10"
+  }
+}
